@@ -1,0 +1,3 @@
+there are 2 types of dynamic programming
+1. Top down(recursion)
+2. Bottom top(iteration)
